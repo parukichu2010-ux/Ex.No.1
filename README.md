@@ -7,7 +7,7 @@
 
 **NAME:Parvathy Ramesh**  
 **Date:** August 2025  
-**Classification:** Educational/Technical Overview
+**REG.NO:** 212222020017
 
 ---
 
@@ -40,7 +40,7 @@ This comprehensive report examines the foundational concepts underlying generati
 
 ---
 
-## 1. Introduction to Generative AI {#introduction}
+## 1. Introduction to Generative AI 
 
 Generative AI refers to artificial intelligence systems capable of creating new, original content based on patterns learned from training data. Unlike discriminative models that classify or categorize existing data, generative models learn the underlying probability distributions of data to produce novel outputs that resemble the training examples.
 
@@ -67,7 +67,7 @@ The significance of generative AI extends beyond technical achievement. These sy
 
 ---
 
-## 2. The Transformer Architecture {#transformer-architecture}
+## 2. The Transformer Architecture 
 
 The transformer architecture, introduced in the seminal paper "Attention Is All You Need" by Vaswani et al. (2017), represents the foundation of modern generative AI. This architecture revolutionized natural language processing by replacing recurrent neural networks with a mechanism based entirely on attention, enabling parallel processing and better capture of long-range dependencies.
 
@@ -126,7 +126,7 @@ These architectural components ensure training stability and enable the construc
 
 ---
 
-## 3. Applications of Generative AI {#applications}
+## 3. Applications of Generative AI 
 
 The versatility of transformer-based generative AI has led to applications across numerous domains, fundamentally changing how we approach creative, analytical, and communicative tasks.
 
@@ -320,7 +320,7 @@ Training state-of-the-art models requires enormous resources:
 
 ---
 
-## 6. Challenges and Limitations {#challenges}
+## 6. Challenges and Limitations 
 
 Despite remarkable capabilities, generative AI systems face significant challenges requiring careful attention and ongoing research.
 
@@ -495,7 +495,7 @@ Continued focus on developing safe, reliable, and well-governed AI systems.
 
 ---
 
-## 8. Conclusion {#conclusion}
+## 8. Conclusion 
 
 Generative AI, powered by transformer architectures and enabled by unprecedented scaling, represents a paradigm shift in artificial intelligence. These systems have demonstrated remarkable capabilities across diverse domains, from creative content generation to complex reasoning tasks. The transformer's attention mechanism has proven to be a fundamental breakthrough, enabling models to understand and generate coherent, contextually appropriate content at scale.
 
